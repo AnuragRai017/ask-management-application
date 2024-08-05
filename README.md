@@ -1,4 +1,5 @@
 # Task Manager Application
+![image](https://github.com/user-attachments/assets/bc6970a9-e395-418f-af08-89e91e8cc48a)
 
 This is a simple task management application built with Flask (backend) and React (frontend).
 
